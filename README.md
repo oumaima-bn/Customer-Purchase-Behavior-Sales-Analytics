@@ -1,14 +1,8 @@
 # 🛍️ Customer Behavior – Data Analyst Portfolio Project
 
-![Customer Behavior Dashboard](images/dashboard.jpg)
-
 This project is a complete, industry-standard, end-to-end data analytics workflow that reflects the real responsibilities of professional analysts in modern business environments. It covers every key stage of the process, from data preparation and modeling to insight generation, visualization and reporting.
 
-## 🎯 Who Is This Project For?
-
-- 📊 **Aspiring Data Analysts** who want a strong portfolio project for interviews and LinkedIn
-- 📚 **Learners** of Python, SQL and Power BI
-- 💼 **Professionals** preparing for Data Analytics, Data Science or Product Analytics interviews
+![Customer Behavior Dashboard](images/dashboard.jpg)
 
 ## 📌 Project Overview
 
