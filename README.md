@@ -1,5 +1,5 @@
 # 🛍️ Customer Behavior – Data Analyst Portfolio Project
-Author: Oumaima Bendjaj
+# Author: Oumaima Bendjaj
 
 ## 📌 Project Overview
 This project is a complete, industry-standard, end-to-end data analytics workflow that reflects the real responsibilities of professional analysts in modern business environments. It covers every key stage of the process, from data preparation and modeling to insight generation, visualization and reporting.
