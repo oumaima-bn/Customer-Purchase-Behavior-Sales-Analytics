@@ -1,41 +1,28 @@
 # 🛍️ Customer Behavior – Data Analyst Portfolio Project
 **Author:** Oumaima Bendjaj
+  
+## 📸 Dashboard Previews
+  ![Customer Behavior Dashboard](png.JPG)
 
 ## 📌 Project Overview
-
+ 
 This project is a complete, industry-standard, end-to-end data analytics workflow that reflects the real responsibilities of professional analysts in modern business environments. It covers every key stage of the process, from data preparation and modeling to insight generation, visualization and reporting.
-
-### Executive Summary
-
+ 
 This project analyzes customer shopping behavior using **Python** for data preprocessing and feature engineering, **SQL** for in-depth analytical exploration, and **Power BI** for interactive visualization. The primary goal is to extract actionable insights from customer transactions and help businesses understand the patterns that influence purchases and customer segments.
-
-### Business Problem
-
+ 
+## 🔎 Business Problem
+ 
 Understanding how and why customers make purchasing decisions is key to improving marketing strategies, inventory management and customer retention. This project tackles challenges such as missing data, feature extraction and trend identification within large transactional datasets, to support data-driven decision-making.
-
-### Project Workflow
-
+ 
+## 🔄 Project Workflow
+ 
 The goal is to simulate a corporate-grade analytics workflow and show how raw data can be turned into strategic business intelligence through four stages:
-
+ 
 - ✅ **Data Preparation, Modeling & EDA (Python):** clean and transform the raw dataset so it is ready for analysis.
 - ✅ **Data Analysis (SQL):** simulate business transactions and run queries to uncover insights on customer segments, loyalty and purchase drivers.
 - ✅ **Visualization & Insights (Power BI):** build an interactive dashboard that highlights key patterns and trends, helping stakeholders make data-driven decisions.
 - ✅ **Report & Presentation:** write a clear report summarizing key findings and business recommendations, and prepare a presentation that communicates them visually to stakeholders.
 
-### 🔎 Key Analysis Axes
-
-| Axis | Focus | SQL questions |
-|---|---|---|
-| 👥 **Customer Demographics** | Who spends the most: gender and age groups | Revenue by gender, revenue by age group |
-| 🔁 **Loyalty & Subscription** | Customer segments, repeat buyers and subscriber value | New / Returning / Loyal segmentation, repeat buyers & subscriptions, subscribers vs. non-subscribers |
-| 🏷️ **Discounts & Pricing** | Role of discounts in purchasing decisions | High-spending discount users, most discount-dependent products |
-| 🛍️ **Product Performance** | Best-rated and best-selling products | Top 5 products by rating, top 3 products per category |
-| 🚚 **Shipping Behavior** | Link between delivery type and spend | Standard vs. Express shipping |
-  
-## 📸 Dashboard Previews
-  ![Customer Behavior Dashboard](png.JPG)
-
-  
 ## 🧰 Tools & Technologies
  
 ### 🛠️ Data Preparation & EDA
